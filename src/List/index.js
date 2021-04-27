@@ -133,8 +133,8 @@ const styles = StyleSheet.create({
         padding: 5,
     },
     icon: {
-        width: 33,
-        height: 33,
+        width: 30,
+        height: 30,
     },
     send: {
         paddingLeft: 5,
